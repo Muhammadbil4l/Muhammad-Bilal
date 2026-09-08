@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a final-year Software Engineering student focused on defensive security and blue team operations. My interest lies in understanding how attacks happen so I can get better at detecting and stopping them — through log analysis, network monitoring, and threat hunting.
+I'm a final-year Software Engineering student focused on defensive security and blue team operations. My interest lies in understanding how attacks happen so I can get better at detecting and stopping them through log analysis, network monitoring, and threat hunting.
 
 Right now I'm working toward my first role as a **SOC Analyst**, building hands-on experience with SIEM platforms, network forensics, and incident response fundamentals.
 
@@ -14,11 +14,11 @@ Right now I'm working toward my first role as a **SOC Analyst**, building hands-
 
 ## Currently Learning
 
-- **SIEM:** Wazuh and Splunk — setup, configuration, and writing correlation rules
-- **Network Analysis:** Wireshark for packet inspection, Nmap for network mapping
-- **Logs & Operating Systems:** Windows Event Logs (Event IDs), Linux auth logs
-- **Threat Frameworks:** MITRE ATT&CK — tactics and techniques
-- **Scripting:** Python for automating log analysis
+- **SIEM:** Wazuh and Splunk :  setup, configuration, and writing correlation rules
+- **Network Analysis :** Wireshark for packet inspection, Nmap for network mapping
+- **Logs & Operating Systems :** Windows Event Logs (Event IDs), Linux auth logs
+- **Threat Frameworks :** MITRE ATT&CK , tactics and techniques
+- **Scripting :** Python for automating log analysis
 
 ---
 
@@ -42,7 +42,7 @@ To land an entry-level SOC Analyst (L1) or defensive security role where I can p
 
 ## Notes & Projects
 
-I document my cybersecurity learning and lab work in a separate repository — attack breakdowns, cheat sheets, and step-by-step guides.
+I document my cybersecurity learning and lab work in a separate repository attack breakdowns, cheat sheets, and step-by-step guides.
 
 **[View my SOC Notes Repository](https://github.com/Muhammadbil4l/soc-notes)**
 
@@ -58,4 +58,4 @@ Open to networking, learning opportunities, and job referrals.
 
 ---
 
-*Currently pursuing a BE in Software Engineering. I believe in defense in depth — one layer of security is never enough.*
+*Currently pursuing a BE in Software Engineering. I believe in defense in depth one layer of security is never enough.*
